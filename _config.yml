@@ -150,7 +150,8 @@ og_description           :  # Social media default site image description
 social:
   type                   : Person
   name                   : "Tashfia Saad"
-  links:     - "https://www.linkedin.com/in/tashfia-saad-408872287/"
+  links:     
+    - "https://www.linkedin.com/in/tashfia-saad-408872287/"
     - "https://www.facebook.com/tashfia.saad.3"
     - "https://scholar.google.com/citations?user=9rhF3qIAAAAJ&hl=en&authuser=4"
     - "https://github.com/saadtashfia"
