@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Advancements in Real-Time Sign Language Translation"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2025-sign-language-translation
+excerpt: 'An end-to-end real-time continuous sign language recognition (CSLR) system using transfer learning and attention-based mechanisms, comparing classification and translation-based approaches for sign language-to-text conversion.'
+date: 2025-03-01
+venue: 'BRAC University'
+slidesurl:
+paperurl: 'https://dspace.bracu.ac.bd/xmlui/handle/10361/26278'
+bibtexurl:
+citation: 'Eshtiak Alam Shihab, Md Shamsur Shafi Nur E Aziz, Kazi Israrul Karim, Tashfia Saad, Neelavro Shafin Qais. (2025). &quot;Advancements in Real-Time Sign Language Translation.&quot; <i>BRAC University</i>.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+This paper addresses the communication concerns of the Deaf community by proposing an end-to-end real-time continuous sign language recognition (CSLR) system. Using transfer learning and attention-based mechanisms, the study compares classification and translation-based approaches, demonstrating the superiority of the translation-based model for sentence-level sign language-to-text conversion with significantly reduced latency for practical accessibility applications.
