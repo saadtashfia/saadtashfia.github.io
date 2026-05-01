@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Hand Gesture Recognition"
+excerpt: "Machine learning models for hand gesture classification using computer vision techniques."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Implemented machine learning models for gesture classification using computer vision techniques. The system recognizes and classifies hand gestures in real time, with applications in accessibility and human-computer interaction.
+
+[View on GitHub](https://github.com/saadtashfia/Classifying-Hand-Gestures-Using-Python)
