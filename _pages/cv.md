@@ -11,54 +11,63 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. in Computer Science and Engineering, BRAC University, 2026 (In Progress)
+* B.Sc. in Computer Science and Engineering, BRAC University, 2025 — CGPA 3.83/4.00, Highest Distinction
+* A Levels — Mathematics (A*), Chemistry (A), Physics (B), Maple Leaf International School, 2020
+* O Levels — 7A*s, 1A, Maple Leaf International School, 2018
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2025 – Present: Graduate Teaching Assistant
+  * BRAC University, Department of Mathematics and Physical Sciences
+  * Duties: Conducting lab sessions for Numerical Methods, Integral Calculus and Differential Equations; developing and grading quizzes, assignments and exams; invigilating central examinations
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2025 – August 2025: Intern (Nextern), Governance, IT Department
+  * Grameenphone Ltd.
+  * Duties: Conducted UAT for pre-live and post-live quality assurance testing for voice bundles
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* September 2023 – February 2025: Student Tutor
+  * BRAC University, Department of Mathematics and Natural Sciences
+  * Duties: Delivered consultation for Elements of Statistics and Probability; assessed and organized assignments and scores
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, C, C++, MySQL
+* Simulation: MATLAB, LTSpice, Mathematica
+* Design Tools: LaTeX, DSCH2, Verilog
+* Research: Literature Review, Technical Writing, Critical Thinking
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Honors and Awards
 ======
-* Currently signed in to 43 different slack teams
+* Highest Distinction — CGPA 3.83, BRAC University
+* 5x Vice Chancellor's List, BRAC University
+* 3x Dean's List, BRAC University
+* BRAC University Scholarship based on previous academic results
+* Daily Star High Achiever's Award (O Levels)
+* Edexcel High Achievers Award (O Levels)
+* Daily Sun Award (O Levels)
+* Duke of Edinburgh's Award (Bronze)
+
+Test Scores
+======
+* IELTS (2025): Overall 8.0 — Listening 9.0, Reading 8.0, Speaking 8.0, Writing 7.0
+
+Extracurricular
+======
+* Chayanaut Sangeet Biddyaton, Department of Rabindra Sangeet (April 2013 – February 2024)
+
+Volunteer Experience
+======
+* Maple Leaf Intra School Annual Science Fair (May 2019)
