@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate Teaching Assistant — Integral Calculus and Differential Equations (Numerical Methods)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2025-fall-teaching-1
+venue: "BRAC University, Department of Mathematics and Physical Sciences"
+date: 2025-08-01
+location: "Dhaka, Bangladesh"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Assisted in teaching Numerical Methods, Integral Calculus and Differential Equations undergraduate lab courses. Responsibilities included conducting lab sessions, developing and grading lab quizzes, assignments and exams, invigilating central examinations, and maintaining organized lab documentation.
