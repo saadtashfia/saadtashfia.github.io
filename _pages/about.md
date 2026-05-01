@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tashfia Saad"
+title: "তাশফিয়া সাদ | Tashfia Saad"
 author_profile: true
 redirect_from: 
   - /about/
