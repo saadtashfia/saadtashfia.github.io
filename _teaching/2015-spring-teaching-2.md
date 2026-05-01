@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Student Tutor — Elements of Statistics and Probability"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2023-fall-teaching-2
+venue: "BRAC University, Department of Mathematics and Natural Sciences"
+date: 2023-09-01
+location: "Dhaka, Bangladesh"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Delivered consultation to students taking Elements of Statistics and Probability using relevant structured references. Assessed and organized assignments and scores for students enrolled in the course.
