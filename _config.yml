@@ -23,7 +23,7 @@ repository               : "saadtashfia/saadtashfia.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.jpg"
+  avatar           : "https://saadtashfia.github.io/images/profile.jpg"
   name             : "তাশফিয়া সাদ | Tashfia Saad"
   pronouns         :  "she/her"  
   bio              : "I help develop mathematically grounded AI solutions without oversimplifying the science. When free, I can be found between books and Rabindra Sangeet!"
