@@ -84,9 +84,9 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-ongoing:
+  ongoing:
     title: 'Research'
-manuscripts:
+  manuscripts:
     title: 'Undergraduate Thesis'
 
 # Site Settings
