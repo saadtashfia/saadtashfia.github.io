@@ -5,6 +5,7 @@ category: ongoing
 permalink: /publication/2026-compound-stability-prediction
 excerpt: 'Reproducing and critically analyzing ML-based compound stability prediction methods from a published computational materials science study, implementing and evaluating multiple compositional models on Materials Project datasets.'
 date: 2026-01-01
+githuburl: 'https://github.com/saadtashfia/Computational-Materials-Science'
 slidesurl:
 paperurl:
 bibtexurl:
