@@ -41,7 +41,7 @@ Skills
 * Design Tools: LaTeX, DSCH2, Verilog
 * Research: Literature Review, Technical Writing, Critical Thinking
 
-Publications
+Research
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
