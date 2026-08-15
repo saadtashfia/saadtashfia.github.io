@@ -18,6 +18,10 @@ Education
 
 Work Experience
 ======
+* June 2026 – Present: Lab Instructor (Part-time)
+  * North South University, Department of Electrical and Computer Engineering
+  * Duties: Conducting lab classes for Programming Language I and Data Structures and Algorithms; developing and grading lab quizzes, assignments and exams
+  
 * August 2025 – Present: Graduate Teaching Assistant
   * BRAC University, Department of Mathematics and Physical Sciences
   * Duties: Conducting lab sessions for Numerical Methods, Integral Calculus and Differential Equations; developing and grading quizzes, assignments and exams; invigilating central examinations
