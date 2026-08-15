@@ -6,6 +6,7 @@ permalink: /publication/2025-sign-language-translation
 excerpt: 'An end-to-end real-time continuous sign language recognition (CSLR) system using transfer learning and attention-based mechanisms, comparing classification and translation-based approaches for sign language-to-text conversion.'
 date: 2025-03-01
 venue: 'BRAC University'
+githuburl: 'https://github.com/saadtashfia/CSLR-Thesis-'
 slidesurl:
 paperurl: 'https://dspace.bracu.ac.bd/xmlui/handle/10361/26278'
 bibtexurl:
