@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an MSc student and Graduate Teaching Assistant at BRAC University, working at the intersection of Machine Learning, Artificial Intelligence, NLP and Material Science, with a passion for mathematically grounded AI research.
+I am interested in Machine Learning and mathematically grounded approaches to Artificial Intelligence. I am currently exploring bioinformatics, with a focus on machine learning-driven biological data analysis and computational methods for understanding complex biological systems. I am pursuing an MSc in Computer Science and Engineering at BRAC University, where I am also working as a Graduate Teaching Assistant. Additionally, I am a part-time Lab Instructor at North South University.
 
 ## Research Interests
 - Machine Learning
