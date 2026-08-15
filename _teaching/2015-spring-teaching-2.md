@@ -5,6 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2023-fall-teaching-2
 venue: "BRAC University, Department of Mathematics and Natural Sciences"
 date: 2023-09-01
+date_range: "September 2023 – February 2025"
 location: "Dhaka, Bangladesh"
 ---
 
