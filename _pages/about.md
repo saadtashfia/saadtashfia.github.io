@@ -11,13 +11,15 @@ I am interested in Machine Learning and mathematically grounded approaches to Ar
 ## Research Interests
 - Machine Learning
 - Artificial Intelligence
-- Generative AI
+- Bioinformatics
+- Computational Biology
 - Material Science
 - Natural Language Processing
 - Computer Vision
+- Generative AI
 
 ## Education
-- **M.Sc. Computer Science and Engineering** *(In Progress)*, BRAC University, 2026
+- **M.Sc. Computer Science and Engineering** *(Ongoing)*, BRAC University, 2026
 - **B.Sc. Computer Science and Engineering**, BRAC University, 2025 — CGPA 3.83/4.00, Highest Distinction
 
 ## Ongoing Research
