@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Tashfia Saad"
 title_separator          : "-"
 name                     : &name "Tashfia Saad"
-description              : &description "Graduate Teaching Assistant at BRAC University"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Lab Instructor at North South University"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://saadtashfia.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -28,7 +28,7 @@ author:
   pronouns         :  "she/her"  
   bio              : "I help develop mathematically grounded AI solutions without oversimplifying the science. When free, I can be found between books and Rabindra Sangeet!"
   location         : "Dhaka, Bangladesh"
-  employer         : "BRAC University"
+  employer         : "North South University"
   uri              : https://saadtashfia.github.io
   email            : "tashfia.saad@northsouth.edu"
 
