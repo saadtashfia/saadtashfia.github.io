@@ -11,4 +11,4 @@ citation: "Saad, T. (2026). GPU Accelerated Pangenome Graph Construction. Ongoin
 
 Parallelizing pangenome graph construction using Shiloach-Vishkin CUDA kernels.
 
-This is ongoing work and has not been published yet. Code and materials are available on GitHub: [View on GitHub]([https://github.com/saadtashfia/YOUR-REPO-NAME](https://github.com/saadtashfia/GPU-Accelerated-Pangenome-Graph-Construction))
+This is ongoing work and has not been published yet. Code and materials are available on GitHub: [View on GitHub](https://github.com/saadtashfia/GPU-Accelerated-Pangenome-Graph-Construction)
