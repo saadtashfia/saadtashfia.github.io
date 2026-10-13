@@ -9,4 +9,4 @@ date_range: "August 2025 – September 2026"
 location: "Dhaka, Bangladesh"
 ---
 
-Assist in teaching Numerical Methods, Integral Calculus and Differential Equations undergraduate lab courses using Wolfram Mathematica. Responsibilities include conducting lab sessions, developing and grading lab quizzes, assignments and exams, invigilating central examinations, and maintaining organized lab documentation.
+Assisted in teaching Numerical Methods, Integral Calculus and Differential Equations undergraduate lab courses using Wolfram Mathematica. Responsibilities included conducting lab sessions, developing and grading lab quizzes, assignments and exams, invigilating central examinations, and maintaining organized lab documentation.
