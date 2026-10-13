@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2025-fall-teaching-1
 venue: "BRAC University, Department of Mathematics and Physical Sciences"
 date: 2025-08-01
-date_range: "August 2025 – Present"
+date_range: "August 2025 – September 2026"
 location: "Dhaka, Bangladesh"
 ---
 
