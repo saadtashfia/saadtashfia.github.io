@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Computer Science and Engineering, BRAC University, 2026 (In Progress)
+* M.Sc. in Computer Science and Engineering, BRAC University, 2026 (In Progress)  — CGPA 4.00/4.00
 * B.Sc. in Computer Science and Engineering, BRAC University, 2025 — CGPA 3.83/4.00, Highest Distinction
 * A Levels — Mathematics (A*), Chemistry (A), Physics (B), Maple Leaf International School, 2020
 * O Levels — 7A*s, 1A, Maple Leaf International School, 2018
@@ -22,7 +22,7 @@ Work Experience
   * North South University, Department of Electrical and Computer Engineering
   * Duties: Conducting lab classes for Programming Language I and Data Structures and Algorithms; developing and grading lab quizzes, assignments and exams
   
-* August 2025 – Present: Graduate Teaching Assistant
+* August 2025 – September 2026: Graduate Teaching Assistant
   * BRAC University, Department of Mathematics and Physical Sciences
   * Duties: Conducting lab sessions for Numerical Methods, Integral Calculus and Differential Equations; developing and grading quizzes, assignments and exams; invigilating central examinations
 
